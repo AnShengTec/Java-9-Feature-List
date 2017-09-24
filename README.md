@@ -1,9 +1,9 @@
 # Java-9-Feature-List
 Java 9 – The Ultimate Feature List
-http://blog.takipi.com/java-9-the-ultimate-feature-list/
+ [英文原址](http://blog.takipi.com/java-9-the-ultimate-feature-list/)
 
-# 被接受的特性
-1. Jigsaw 项目;模块化源码
+### 被接受的特性
+#### 1. Jigsaw 项目;模块化源码
 
 Jigsaw项目是为了模块化Java代码、将JRE分成可相互协作的组件，这也是Java 9 众多特色种的一个。JEP是迈向Jigsaw四步中的第一步，它不会改变JRE和JDK的真实结构。JEP是为了模块化JDK源代码，让编译系统能够模块编译并在构建时检查模块边界。这个项目原本是随Java 8发布的，但由于推迟，所以将把它加到Java 9.
 
